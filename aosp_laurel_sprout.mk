@@ -28,10 +28,10 @@ PRODUCT_MODEL := Mi A3
 PRODUCT_MANUFACTURER := Xiaomi
 
 # EvolutionX Official Props
-EVO_MAINTAINER := oddlyspaced
-EVO_SUPPORT_URL := https://t.me/EvolutionXA3
-CUSTOM_BUILD_TYPE := OFFICIAL
-EVO_DONATE_URL := https://www.paypal.me/hdsrivastava
+#EVO_MAINTAINER := oddlyspaced
+#EVO_SUPPORT_URL := https://t.me/EvolutionXA3
+#CUSTOM_BUILD_TYPE := OFFICIAL
+#EVO_DONATE_URL := https://www.paypal.me/hdsrivastava
 
 BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
 
